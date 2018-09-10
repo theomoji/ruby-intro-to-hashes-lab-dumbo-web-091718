@@ -27,7 +27,7 @@ def monopoly_with_second_tier
 
 end
 
-it "sets the third key of the :railroads hash to a symbol, :rent_in_dollars, whose value is an empty hash " do
+
 
 
 
