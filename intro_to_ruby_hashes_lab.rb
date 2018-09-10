@@ -21,13 +21,13 @@ def monopoly_with_second_tier
 		:railroads => {
 			:pieces => 4,
 			:names => {},
-			:rent_in_dollars = {},
+
 		}
 	}
 
 end
 
-
+# it "sets the third key of the :railroads hash to a symbol, :rent_in_dollars, whose value is an empty hash " do
 
 
 
