@@ -37,7 +37,7 @@ def monopoly_with_third_tier
 				},
 				:pennsylvania_railroad => {
 
-				}
+				},
 
 		},
 			:rent_in_dollars => {
